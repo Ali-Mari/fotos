@@ -3,108 +3,108 @@
         "nombre": "Sintomatologia del cancer pediatrico",
         "descripcion": "Un trabajo para la Fundación CARE. Muestra los 12 sintomatología de niños con cáncer.",
         "fecha": "2024",
-        "signo": "editorial",
+        "signo": "Editorial",
         "foto": "https://github.com/user-attachments/assets/2d2b28af-17ca-420f-8ace-5315b4bc846d",
-        "fotos": "https://github.com/user-attachments/assets/7f19c3ae-9920-475f-aaf3-a30704ad1a6a",
+        "fotos": ["Sintomatologia del cancer pediatrico 1.png"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Afiche Ready Player One",
         "descripcion": "Un afiche fanart sobre la película Ready Player One. Además de una breve presentación sobre los videos de los créditos iniciales y finales de la película.",
         "fecha": "2023",
-        "signo": "editorial",
+        "signo": "Editorial",
         "foto": "https://github.com/user-attachments/assets/765c531d-0af0-45bf-9c81-daa338f49814",
-        "fotos": "https://github.com/user-attachments/assets/13a4fa62-49b2-4b8d-aac8-4b189236e541",
+        "fotos": ["Afiche Ready Player One 1.jpg","Afiche Ready Player One 2.jpg"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Libro Material y Packaging",
         "descripcion": "Un libro interactivo de los diferentes materiales que se usaron para fabricar packagings de diferentes productos.",
         "fecha": "2023",
-        "signo": "editorial",
+        "signo": "Editorial",
         "foto": "https://github.com/user-attachments/assets/310d4607-3cd3-4bc1-a79e-362e28475879",
-        "fotos": "https://github.com/user-attachments/assets/db88ad80-89d4-4255-9f9d-039edd98ebdf",
+        "fotos": ["Libro Material y Packaging 1.png"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Cafeteria La Subida",
         "descripcion": "Un diseño de un conjunto de servilleta, individual y menú de la cafetería La Subida.",
         "fecha": "2023",
-        "signo": "editorial",
+        "signo": "Editorial",
         "foto": "https://github.com/user-attachments/assets/ab457d9a-ec82-4a54-9e87-71cddf65fe76",
-        "fotos": "https://github.com/user-attachments/assets/603e2f95-e9e4-4b46-bf23-39a461a79f9f",
+        "fotos": ["Cafeteria La Subida 1.jpeg","Cafeteria La Subida 2.jpeg"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Museo MAC",
         "descripcion": "Un trabajo de rediseñar una nueva linea gráfica de un museo en Chile.",
         "fecha": "2024",
-        "signo": "branding",
+        "signo": "Branding",
         "foto": "https://github.com/user-attachments/assets/ea9cb1e3-7b2b-402a-8407-9e7dd5b330ca",
-        "fotos": "https://github.com/user-attachments/assets/0af79f4d-87be-4d4f-b81a-07dac255300a",
+        "fotos": ["Museo MAC 1.png","Museo MAC 2.png","Museo MAC 3.png"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Patron Cuis",
         "descripcion": "Una ilustración de un patron sobre cobayos en Halloween.",
         "fecha": "2023",
-        "signo": "ilustracion",
+        "signo": "Ilustracion",
         "foto": "https://github.com/user-attachments/assets/c744ba16-c8a6-4cf3-88d8-5df6c036a4bc",
-        "fotos": "https://github.com/user-attachments/assets/2b1e1fe6-ada6-48a0-9cc5-4545191a569a",
+        "fotos": ["Patron Cuis 1.jpg"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Libro Encuentro Tipografos",
         "descripcion": "Un trabajo de un libro interactivo y explorativo sobre dos tipografos reconocidos y sus dos tipografías más populares cada uno.",
         "fecha": "2023",
-        "signo": "editorial",
+        "signo": "Editorial",
         "foto": "https://github.com/user-attachments/assets/4baf2d00-78f5-4df7-9ac7-8f01512efc98",
-        "fotos": "https://github.com/user-attachments/assets/9b2dc052-5bbd-42df-953f-6f9ad83178af",
+        "fotos": ["Libro Encuentro Tipografos 1.png"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Jinshu",
         "descripcion": "Un trabajo de un juego de mesa sobre la conquista de diferentes razas. Una mezcla de fantasía y conquista.",
         "fecha": "2022",
-        "signo": "juego",
+        "signo": "Juego",
         "foto": "https://github.com/user-attachments/assets/54102baa-c0a3-463d-aafe-35b67f51f266",
-        "fotos": "https://github.com/user-attachments/assets/111f0612-7eac-49bd-93db-0dd10d3ff160",
+        "fotos": ["Jinshu 1.png","Jinshu 2.png","Jinshu 3.png"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Gamer Quest",
         "descripcion": "Un fanzine que habla sobre lo que experimentan y errores generales que los jugadores viven en un videojuego.",
         "fecha": "2023",
-        "signo": "ilustracion",
+        "signo": "Ilustracion",
         "foto": "https://github.com/user-attachments/assets/6aef6a73-073f-4c13-b764-d90a67868d87",
-        "fotos": "https://github.com/user-attachments/assets/c8ae0419-a76e-4bbf-9f0f-60d13d99ec79",
+        "fotos": ["Gamer Quest 1.jpg"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Don Pugote",
         "descripcion": "Un trabajo de un videjuego, donde muestra el diseño de los personajes, el manual de juego y su aplicación final.",
         "fecha": "2024",
-        "signo": "juego",
+        "signo": "Juego",
         "foto": "https://github.com/user-attachments/assets/f22fe643-2499-49f5-8225-cb441d2f256d",
-        "fotos": "https://github.com/user-attachments/assets/3e7008b6-448d-4d3f-bc32-31519e5d29d8",
+        "fotos": ["Don Pugote 7.jpeg","Don Pugote 8.jpeg"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "PEEK",
         "descripcion": "Un trabajo de una infografía explicativa sobre el material PEEK (Polieteretercetona).",
         "fecha": "2022",
-        "signo": "editorial",
+        "signo": "Editorial",
         "foto": "https://github.com/user-attachments/assets/c36c873f-9f08-43a3-a3fe-7b0a3374e8bd",
-        "fotos": "https://github.com/user-attachments/assets/787b5849-171d-4dd8-b415-61bb81ae5e11",
+        "fotos": ["PEEK 1.png"],
         "github": "https://github.com/ali-mari"
     },
     {
         "nombre": "Ilustraciones",
         "descripcion": "Una ilustración y autoretrato de la diseñadora de este portafolio.",
         "fecha": "2021",
-        "signo": "ilustracion",
+        "signo": "Ilustracion",
         "foto": "https://github.com/user-attachments/assets/b3a1d996-62ad-4ca0-baa7-9a7273971194",
-        "fotos": "https://github.com/user-attachments/assets/24156d78-45a5-43ee-9361-1b63db09bf4d",
+        "fotos": ["Ilustracion 1.png","Ilustracion 2.png"],
         "github": "https://github.com/ali-mari"
     }
 ]
