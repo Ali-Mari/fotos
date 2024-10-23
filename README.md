@@ -20,7 +20,7 @@
 ![Jinshu 1](https://github.com/user-attachments/assets/111f0612-7eac-49bd-93db-0dd10d3ff160)
 ![Jinshu 2](https://github.com/user-attachments/assets/fda2411d-e569-4ffa-85c1-fa5d624d022a)
 ![Jinshu 3](https://github.com/user-attachments/assets/9fe4e41d-176f-4067-b63b-8c4cb5492012)
-![Libro Material y Packaging 0](https://github.com/user-attachments/assets/0942a5f6-fe91-4647-99a0-2e4c18fbba39)
+![Libro Material y Packaging 0](https://github.com/user-attachments/assets/310d4607-3cd3-4bc1-a79e-362e28475879)
 ![Libro Material y Packaging 1](https://github.com/user-attachments/assets/db88ad80-89d4-4255-9f9d-039edd98ebdf)
 ![Museo MAC 0](https://github.com/user-attachments/assets/ea9cb1e3-7b2b-402a-8407-9e7dd5b330ca)
 ![Museo MAC 1](https://github.com/user-attachments/assets/0af79f4d-87be-4d4f-b81a-07dac255300a)
