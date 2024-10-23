@@ -4,8 +4,8 @@
         "descripcion": "Un trabajo para la Fundación CARE. Muestra los 12 sintomatología de niños con cáncer.",
         "fecha": "2024",
         "signo": "editorial",
-        "foto": "sintomatologia-del-cancer-pediatrico-0.png",
-        "fotos": ["sintomatologia-del-cancer-pediatrico-1.png"],
+        "foto": "https://github.com/user-attachments/assets/07fe0086-de11-4d9f-a1b6-71d38a4d9b0a",
+        "fotos": ["sintomatologia-del-cancer-pediatrico-0.png","sintomatologia-del-cancer-pediatrico-1.png"],
         "github": "https://github.com/ali-mari"
     },
     {
@@ -13,8 +13,8 @@
         "descripcion": "Un afiche fanart sobre la película Ready Player One. Además de una breve presentación sobre los videos de los créditos iniciales y finales de la película.",
         "fecha": "2023",
         "signo": "editorial",
-        "foto": "afiche-ready-player-one-0.png",
-        "fotos": ["afiche-ready-player-one-1.jpg","afiche-ready-player-one-2.jpg"],
+        "foto": "https://github.com/user-attachments/assets/932f680c-23ae-403d-9ffa-c9bd0748a256",
+        "fotos": ["afiche-ready-player-one-1.jpg","afiche-ready-player-one-2.jpg","afiche-ready-player-one-3.jpg"],
         "github": "https://github.com/ali-mari"
     },
     {
@@ -22,8 +22,8 @@
         "descripcion": "Un libro interactivo de los diferentes materiales que se usaron para fabricar packagings de diferentes productos.",
         "fecha": "2023",
         "signo": "editorial",
-        "foto": "libro-material-y-packaging-0.png",
-        "fotos": ["libro-material-y-packaging-1.png"],
+        "foto": "https://github.com/user-attachments/assets/690c28a0-dd30-4147-98d0-b314adcf7bab",
+        "fotos": ["libro-material-y-packaging-0.png","libro-material-y-packaging-1.png","libro-material-y-packaging-2.png"],
         "github": "https://github.com/ali-mari"
     },
     {
@@ -31,8 +31,8 @@
         "descripcion": "Un diseño de un conjunto de servilleta, individual y menú de la cafetería La Subida.",
         "fecha": "2023",
         "signo": "editorial",
-        "foto": "cafeteria-la-subida-0.png",
-        "fotos": ["cafeteria-la-subida 1.jpeg","cafeteria-la-subida-2.jpeg"],
+        "foto": "https://github.com/user-attachments/assets/6f825865-7d37-4d58-98dc-f9b9a7b45ca2",
+        "fotos": ["cafeteria-la-subida 1.jpeg","cafeteria-la-subida-2.jpeg","cafeteria-la-subida-3.jpeg"],
         "github": "https://github.com/ali-mari"
     },
     {
@@ -40,7 +40,7 @@
         "descripcion": "Un trabajo de rediseñar una nueva linea gráfica de un museo en Chile.",
         "fecha": "2024",
         "signo": "branding",
-        "foto": "museo-mac-0.png",
+        "foto": "https://github.com/user-attachments/assets/3aaceee1-091b-4ae4-b273-930c1e6a2bbb",
         "fotos": ["museo-mac-1.png","museo-mac-2.png","museo-mac-3.png"],
         "github": "https://github.com/ali-mari"
     },
@@ -49,8 +49,8 @@
         "descripcion": "Una ilustración de un patron sobre cobayos en Halloween.",
         "fecha": "2023",
         "signo": "visual",
-        "foto": "patron-cuis-0.png",
-        "fotos": ["patron-cuis-1.jpg"],
+        "foto": "https://github.com/user-attachments/assets/0457a1fc-4337-45b5-8fd7-196bfbab1580",
+        "fotos": ["patron-cuis-0.png","patron-cuis-1.jpg","patron-cuis-2.jpg"],
         "github": "https://github.com/ali-mari"
     },
     {
@@ -58,8 +58,8 @@
         "descripcion": "Un trabajo de un libro interactivo y explorativo sobre dos tipografos reconocidos y sus dos tipografías más populares cada uno.",
         "fecha": "2023",
         "signo": "editorial",
-        "foto": "libro-encuentro-tipografos-0.png",
-        "fotos": ["libro-encuentro-tipografos-1.png"],
+        "foto": "https://github.com/user-attachments/assets/06296b48-bd60-4b5a-98f8-2547df527c02",
+        "fotos": ["libro-encuentro-tipografos-0.png","libro-encuentro-tipografos-1.png","libro-encuentro-tipografos-2.png"],
         "github": "https://github.com/ali-mari"
     },
     {
@@ -67,7 +67,7 @@
         "descripcion": "Un trabajo de un juego de mesa sobre la conquista de diferentes razas. Una mezcla de fantasía y conquista.",
         "fecha": "2022",
         "signo": "juego",
-        "foto": "jinshu-0.png",
+        "foto": "https://github.com/user-attachments/assets/360f0e90-9a7e-4fd7-b075-3263b62c7b25",
         "fotos": ["jinshu-1.png","jinshu-2.png","jinshu-3.png"],
         "github": "https://github.com/ali-mari"
     },
@@ -76,8 +76,8 @@
         "descripcion": "Un fanzine que habla sobre lo que experimentan y errores generales que los jugadores viven en un videojuego.",
         "fecha": "2023",
         "signo": "visual",
-        "foto": "gamer-quest-0.jpg",
-        "fotos": ["gamer-quest-1.jpg"],
+        "foto": "https://github.com/user-attachments/assets/dd8cef73-22b9-4cab-89b1-6cec72bd8068",
+        "fotos": ["gamer-quest-0.jpg","gamer-quest-1.jpg","gamer-quest-2.jpg"],
         "github": "https://github.com/ali-mari"
     },
     {
@@ -85,8 +85,8 @@
         "descripcion": "Un trabajo de un videjuego, donde muestra el diseño de los personajes, el manual de juego y su aplicación final.",
         "fecha": "2024",
         "signo": "juego",
-        "foto": "don-pugote-0.png",
-        "fotos": ["don-pugote-7.jpeg","don-pugote-8.jpeg"],
+        "foto": "https://github.com/user-attachments/assets/f95db52b-49d8-4ca5-9945-542b111a4624",
+        "fotos": ["don-pugote-0.png","don-pugote-7.jpeg","don-pugote-8.jpeg"],
         "github": "https://github.com/ali-mari"
     },
     {
@@ -94,8 +94,8 @@
         "descripcion": "Un trabajo de una infografía explicativa sobre el material PEEK (Polieteretercetona).",
         "fecha": "2022",
         "signo": "editorial",
-        "foto": "peek-0.png",
-        "fotos": ["peek-1.png"],
+        "foto": "https://github.com/user-attachments/assets/f9a23427-9334-45d0-b6eb-18a6660e8734",
+        "fotos": ["peek-0.png","peek-1.png"],
         "github": "https://github.com/ali-mari"
     },
     {
@@ -103,8 +103,8 @@
         "descripcion": "Una ilustración y autoretrato de la diseñadora de este portafolio.",
         "fecha": "2021",
         "signo": "visual",
-        "foto": "ilustracion-0.jpeg",
-        "fotos": ["ilustracion-1.png","ilustracion-2.png"],
+        "foto": "https://github.com/user-attachments/assets/efde57d7-5f4f-4b13-a419-54a77a6a2ead",
+        "fotos": ["ilustracion-0.jpeg","ilustracion-1.png","ilustracion-2.png"],
         "github": "https://github.com/ali-mari"
     }
 ]
