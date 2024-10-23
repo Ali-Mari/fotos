@@ -48,7 +48,7 @@
         "nombre": "Patron Cuis",
         "descripcion": "Una ilustración de un patron sobre cobayos en Halloween.",
         "fecha": "2023",
-        "signo": "ilustracion",
+        "signo": "visual",
         "foto": "patron-cuis-0.png",
         "fotos": ["patron-cuis-1.jpg"],
         "github": "https://github.com/ali-mari"
@@ -75,7 +75,7 @@
         "nombre": "Gamer Quest",
         "descripcion": "Un fanzine que habla sobre lo que experimentan y errores generales que los jugadores viven en un videojuego.",
         "fecha": "2023",
-        "signo": "ilustracion",
+        "signo": "visual",
         "foto": "gamer-quest-0.jpg",
         "fotos": ["gamer-quest-1.jpg"],
         "github": "https://github.com/ali-mari"
@@ -102,7 +102,7 @@
         "nombre": "Ilustraciones",
         "descripcion": "Una ilustración y autoretrato de la diseñadora de este portafolio.",
         "fecha": "2021",
-        "signo": "ilustracion",
+        "signo": "visual",
         "foto": "ilustracion-0.jpeg",
         "fotos": ["ilustracion-1.png","ilustracion-2.png"],
         "github": "https://github.com/ali-mari"
